@@ -18,8 +18,8 @@ close;
 disp("Loading audio files...");
 
 // Read reference and test voice files
-[y1, fs1] = wavread("C:\Users\acer\Documents\sample-2.wav");
-[y2, fs2] = wavread("C:\Users\acer\Downloads\sample-0.wav");
+[y1, fs1] = wavread("C:\Users\acer\Downloads\reference.wav");
+[y2, fs2] = wavread("C:\Users\acer\Downloads\test.wav");
 
 // Check sampling rates
 if fs1 <> fs2 then
@@ -78,6 +78,10 @@ disp("Waveforms plotted successfully. Close the graph window manually to finish.
 ```
 
 ## OUTPUT: 
+<img width="1915" height="1076" alt="image" src="https://github.com/user-attachments/assets/8395da7b-02de-43ee-8d63-4864b29af13c" />
+
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/543e54ad-9cb2-458f-ad03-6dcc99069109" />
+
 
 
 ## RESULT: 
