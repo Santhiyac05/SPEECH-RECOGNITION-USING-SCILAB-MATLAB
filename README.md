@@ -78,6 +78,8 @@ disp("Waveforms plotted successfully. Close the graph window manually to finish.
 ```
 
 ## OUTPUT: 
+<img width="1131" height="583" alt="image" src="https://github.com/user-attachments/assets/904e5e29-06c5-44ca-8b30-82e29a37603a" />
+
 <img width="1915" height="1076" alt="image" src="https://github.com/user-attachments/assets/8395da7b-02de-43ee-8d63-4864b29af13c" />
 
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/543e54ad-9cb2-458f-ad03-6dcc99069109" />
